@@ -24,6 +24,33 @@ The project combines **SQL-based data preparation and validation** with an inter
 
 ---
 
+## 📈 Power BI Dashboard
+
+The final Power BI report contains four main analytical dashboards plus a dedicated Product Detail drill-through page.
+
+
+### 1️⃣ Executive Performance Overview
+Provides a high-level view of overall e-commerce performance.
+
+<img width="1322" height="732" alt="Dashboard page 1" src="https://github.com/user-attachments/assets/fcbe787a-df16-4342-943f-4fe6317c4bfd" />
+
+### 2️⃣ Customer Intelligence & Retention
+Analyzes customer purchasing behavior and repeat-customer patterns.
+
+<img width="1318" height="736" alt="Dashboard page 2" src="https://github.com/user-attachments/assets/fa097465-546a-4eee-8d04-12eb663aa158" />
+
+### 3️⃣ Product Intelligence
+Analyzes product and category-level sales performance.
+
+<img width="1322" height="736" alt="Dashboard page 3" src="https://github.com/user-attachments/assets/2055e090-5197-4e55-a95a-d159a1b2ba30" />
+
+### 4️⃣ Customer Experience
+Evaluates customer satisfaction and delivery performance.
+
+<img width="1318" height="732" alt="Dashboard page 4" src="https://github.com/user-attachments/assets/35290989-f581-4a98-88b1-9c1f56258cdd" />
+
+---
+
 ## 🎯 Business Objectives
 
 The main business questions addressed in this project include:
