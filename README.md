@@ -25,8 +25,10 @@ The project combines **SQL-based data preparation and validation** with an inter
 ---
 
 ## 📈 Power BI Dashboard
+https://app.powerbi.com/links/jc7FW2jjw7?ctid=427724da-dffb-4358-92a7-ead02d6f2f03&pbi_source=linkShare
 
 The final Power BI report contains four main analytical dashboards plus a dedicated Product Detail drill-through page.
+
 
 
 ### 1️⃣ Executive Performance Overview
